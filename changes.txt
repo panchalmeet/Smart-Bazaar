@@ -1,0 +1,65 @@
+blue : #00244a
+Orange : rgb(247, 102, 12)    #f7660c
+
+breadcrubms change in sub-header
+
+footer (© 2016 Smart Bazaar. All rights reserved | Design by <a href="http://w3layouts.com/">GIH-2018)
+
+
+application in android studio [activity]
+1. login pages 		done
+2. register Pages
+3. products page
+     - catlog
+4. payment system
+5. privacy policy
+6. 
+
+Bugs finds in all pages 
+1. external CSS
+2. Designing
+3. Theme
+4. Breadcrumb
+5. Path
+6. Image Load
+7. Footer
+8. Header
+9. Mail
+10. Payment Function
+11. Login Signup Pages (Validation)
+12. Testimonials (quotes)
+13. GIH Logo 
+14. Browser Icon (Cart)
+15. Browser Breadcrumb
+16. JS include
+
+
+
+
+
+_______________								
+Completed Pages
+_______________							
+1.bread.php				done
+2.checkout.php			done
+3.drinks.php			done
+4.frozen.php			done
+5.household.php			done
+6.kitchen.php			done
+7.login.php				done
+8.mail.php				done
+9.payment.php			done
+10.pet.php				done
+11.products.php       	done
+12.short-codes.php		done
+13.vegetables.php		done
+14.about.php			done
+15.faqs.php				done
+16.privacy.php			done
+17.services.php			done
+18.single.php			done
+
+_______________								
+Remain Pages
+_______________							
+events.php
