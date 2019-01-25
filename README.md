@@ -1,2 +1,10 @@
 # Smart-Bazaar
-Smart Shopping Mall Website
+In this topic we will go to discuss which type of technology we will use to build the Smart Bazar (Smart Online Shopping Mall) portal.
+ Basically we will use the frontend as in form of Laravel, HTML-5, and CSS-3, Bootstrap (3, 4), jQuery and finally JavaScript. After all of these thing we move to backend and integrate with Dynamic Apies and PHP and also we will use, database using (MYSQL either Server Side Database).
+ Using Laravel in Smart Bazar (Smart Online Shopping Mall) portal. provide best Quality of GUI as well with Graph system to improve the data management also Graph and Data management will done through either from dynamic server or from MYSQL based on the Requirement using Dynamic Apies we can improve the functionality portal.
+
+We find everything needed at one stop. This is one of the great benefits of shopping at malls. Everything we need is more than likely in the mall. We don't have to waste gallons of gas just to get everything.
+ There are a lot of different events and offers. If a certain promotion, sale, or giveaway is being offered, the companies know that the mall is the best place to target people. You'd be surprised at how many offers are present in the mall. One day you might get lucky or discover a unique product.
+ Shopping malls also have financial benefits. For example, you can save on the expense of going from one place to another looking for different products. Whomever the genius was who came up with the idea of all under one roof, he really had convenience.
+ Entertainment Center Malls make great meeting places for friends and even business meets to catch up over coffee at a cafe or a meal at the food court. Families get to do their weekly shopping, pick up odds and ends and keep the kids entertained at the mall.
+ Availability of Parking, Wi-Fi facilities is one of the major hassles for people who go into the city to shop. Shopping malls incorporate vast parking areas into their design and construction. This makes it advantageous for people to choose to shop at a mall rather than a single store.
